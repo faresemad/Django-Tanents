@@ -32,6 +32,7 @@ ALLOWED_HOSTS = ["*"]
 
 SHARED_APPS = [
     'django_tenants',
+    'rest_framework',
     'app',
     'django.contrib.admin',
     'django.contrib.auth',
